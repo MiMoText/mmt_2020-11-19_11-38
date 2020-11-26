@@ -15,10 +15,10 @@ It was created on November 19, 2020.
 * number of optimizations: 10
 
 ## Results
-* document-topic-distribution in mastermatrix.csv
-* topic-word-distribution in topicwords.csv
-* pyLDAVis-visualization
-* wordles of each topic
+* document-topic-distribution in https://github.com/MiMoText/mmt_2020-11-19_11-38/blob/main/results/mmt_2020-11-19_11-38/mastermatrix.csv
+* topic-word-distribution in https://github.com/MiMoText/mmt_2020-11-19_11-38/blob/main/results/mmt_2020-11-19_11-38/topicwords.csv
+* pyLDAVis-visualization (https://github.com/MiMoText/mmt_2020-11-19_11-38/blob/main/results/mmt_2020-11-19_11-38/visualization.html)
+* wordles of each topic ()
 
 
 ## Licence
