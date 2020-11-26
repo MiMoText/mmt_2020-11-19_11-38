@@ -8,7 +8,7 @@ It was created on November 19, 2020
 
 ## Parameters
 
-* Corpus: https://github.com/MiMoText/roman18 (Status 19.11.20, 92 texts)
+* Corpus: https://github.com/MiMoText/roman18 (Status: 19.11.20, 92 texts)
 * size of textchunks: 1000 words
 * number of topics: 30
 * iterations: 2000
