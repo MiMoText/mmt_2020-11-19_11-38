@@ -21,7 +21,7 @@ It was created on November 19, 2020.
 * wordles of each topic (https://github.com/MiMoText/mmt_2020-11-19_11-38/tree/main/results/mmt_2020-11-19_11-38/wordles)
 
 Example Topic 7:
-![Wordle Topic 7](https://github.com/MiMoText/mmt_2020-11-19_11-38/tree/main/results/mmt_2020-11-19_11-38/wordles/topic_007.png)
+![Wordle Topic 7](/results/mmt_2020-11-19_11-38/wordles/topic_007.png)
 
 
 ## Licence
