@@ -18,7 +18,10 @@ It was created on November 19, 2020.
 * document-topic-distribution in https://github.com/MiMoText/mmt_2020-11-19_11-38/blob/main/results/mmt_2020-11-19_11-38/mastermatrix.csv
 * topic-word-distribution in https://github.com/MiMoText/mmt_2020-11-19_11-38/blob/main/results/mmt_2020-11-19_11-38/topicwords.csv
 * pyLDAVis-visualization (https://github.com/MiMoText/mmt_2020-11-19_11-38/blob/main/results/mmt_2020-11-19_11-38/visualization.html)
-* wordles of each topic ()
+* wordles of each topic (https://github.com/MiMoText/mmt_2020-11-19_11-38/tree/main/results/mmt_2020-11-19_11-38/wordles)
+
+Example Topic 7:
+![Wordle Topic 7](https://github.com/MiMoText/mmt_2020-11-19_11-38/tree/main/results/mmt_2020-11-19_11-38/wordles/topic_007.png)
 
 
 ## Licence
