@@ -28,3 +28,4 @@ Example Topic 7:
 All texts, here used as input files, are in the public domain and can be reused without restrictions. We don’t claim any copyright or other rights on the transcription, markup, metadata or scripts. If you use our data and scripts, for example in research or teaching, please reference this collection using the citation suggestion below.
 
 ## Citation suggestion
+Topic Model of roman18 corpus (Nov 2020), edited by Anne Klee and Julia Röttgermann. Release v0.1.0. Trier: TCDH, 2021. URL: https://github.com/MiMoText/mmt_2020-11-19_11-38. 
