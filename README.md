@@ -25,3 +25,6 @@ Example Topic 7:
 
 
 ## Licence
+All texts, here used as input files, are in the public domain and can be reused without restrictions. We don’t claim any copyright or other rights on the transcription, markup, metadata or scripts. If you use our data and scripts, for example in research or teaching, please reference this collection using the citation suggestion below.
+
+## Citation suggestion
